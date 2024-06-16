@@ -1,0 +1,23 @@
+{
+  "name": "personal-card",
+  "version": "1.0.0",
+  "description": "Personal Card by Zacky Achmad",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/main.css -o ./assets/css/main.css --watch",
+    "build": "tailwindcss -i ./src/main.css -o ./assets/css/main.css --minify"
+  },
+  "keywords": [
+    "personal",
+    "card",
+    "zackyachmad",
+    "tailwind"
+  ],
+  "author": "Zacky Achmad",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  }
+}

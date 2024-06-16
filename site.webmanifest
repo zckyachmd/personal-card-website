@@ -1,0 +1,20 @@
+{
+  "name": "Zacky - The Coding Nerd",
+  "short_name": "ZA",
+  "description": "Zacky Achmad - The Coding Nerd. Exploring the world of coding, one line at a time! Software Engineer based in Cimahi, Indonesia | Let's connect: hi@zacky.id",
+  "icons": [
+    {
+      "src": "/asset/img/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/asset/img/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#323F5C",
+  "background_color": "#1E2536",
+  "display": "standalone"
+}
